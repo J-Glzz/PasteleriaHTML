@@ -1,0 +1,9 @@
+*{
+    background-color: rgba(150, 208, 234, 1);
+}
+.bg-card-neo{
+    border-radius: 14px;
+    background: #96D0EA;
+    box-shadow:  8px 8px 27px #668d9f,
+                -8px -8px 27px #c6ffff;
+}

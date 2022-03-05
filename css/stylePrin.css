@@ -1,0 +1,32 @@
+body{
+    /* background-color: #CDB1A2; */
+    /* background-color: rgba(175, 77, 152, 0.6) */
+    border-radius: 14px;
+    background: #af4d98;
+    box-shadow: 25px 25px 70px #9e4589,
+            -25px -25px 70px #c155a7;  
+}
+.tituloPasteleria{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #050085;
+}
+.bg-custom-intro{
+    /* background-color: #AF4D98; */
+    border-radius: 35px;
+    background: #af4d98;
+    box-shadow:  35px 35px 70px #873b75,
+                 -35px -35px 70px #d75fbb; 
+    /* opacity: 0.4; */
+}
+.bg-color-footer{
+    border-radius: 35px;
+    background: #af4d98;
+    box-shadow: inset 35px 35px 70px #873b75,
+                inset -35px -35px 70px #d75fbb;  
+}
+/* #wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -60px;
+ } */
